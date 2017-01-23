@@ -50,4 +50,4 @@ What happens if you turn in a lab late?
 
 When are you free during my scheduled office hours?
 > JaeEun - I am free from 10 to 11 MTWF
-Zachary - 
+Zachary - 10-11am MTWF
