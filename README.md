@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Alex French
 
 What are your GitHub usernames?
-> ...
+> frenchal17
 
 What do you prefer to be called?
-> ...
+> Alex
 
 Why are you taking this course?
-> ...
+> Because I've visualized data before with Processing and loved it -- also, Charlie is awesome.
 
 What are your concerns about this course?
-> ...
+> That working with data visualization in a class setting will be less enjoyable than when I have tinkered with it.
 
 What topic in this course are you most excited to cover?
-> ...
+> Interactive and/or live data visualization sounds extremely exciting to me
 
 Do you have any questions for me?
-> ...
+> Not currently
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
