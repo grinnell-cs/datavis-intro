@@ -4,24 +4,31 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names, as they appear on the class roster?
 > Nick Roberson
+  Ritika Agarwal
 
 What are your GitHub usernames?
 > NickRoberson
+  agarwalritika
 
 What do you prefer to be called?
 > Nick
+  Ritika
 
 Why are you taking this course?
 > To learn more about the intersection of data and visual art.
+  To learn about how visualization of data can reveal insights and trends in an intuitive way.
 
 What are your concerns about this course?
 > None at the moment. 
+  Learning a lot of new technology at once. 
 
 What topic in this course are you most excited to cover?
 > I'm excited to learn about the D3.js toolkit.
+  I'm excited about the final project.
 
 Do you have any questions for me?
 > None at the moment.
+  None right now.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
