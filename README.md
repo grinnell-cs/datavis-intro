@@ -3,25 +3,32 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Logan Goldberg
+> 
 
 What are your GitHub usernames?
-> ...
+> lgoldberg9
+> 
 
 What do you prefer to be called?
-> ...
+> Logan
+>
 
 Why are you taking this course?
-> ...
+> Because I can't take 213.
+>
 
 What are your concerns about this course?
-> ...
+> I am concerned about maintaining focus throughout the course of the semester.
+>
 
 What topic in this course are you most excited to cover?
-> ...
+> The interactive visualizations are really intriguing.
+>
 
 Do you have any questions for me?
-> ...
+> Has anyone in 213 dropped?
+>
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
