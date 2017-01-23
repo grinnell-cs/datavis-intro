@@ -27,13 +27,14 @@ Do you have any questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> ...
+> Lab work and a final project
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> You lose 1.5% of your grade. You are allowed to miss two classes or be late for class four times.
 
 What happens if you turn in a lab late?
-> ...
+> Labs are penalized a letter grade for each day they are late.
 
 When are you free during my scheduled office hours?
-> ...
+> (Kevin) I can go to the Tuesday office hours
+(Linh) I am available on Monday, Wednesday, Friday 10 - 11
