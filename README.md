@@ -16,19 +16,19 @@ What do you prefer to be called?
 
 Why are you taking this course?
 > To gain exposure to front-end web based languages like JS, HTML & CSS
-> To explore the use of data in technology
+> Uzo - To explore the use of data in technology
 
 What are your concerns about this course?
 > JS seems to be a lot to learn given its diverse libraries
-> My experience with front-end web languages like JS is limited, and may be a problem at first.
+> Uzo - My experience with front-end web languages like JS is limited, and may be a problem at first.
 
 What topic in this course are you most excited to cover?
 > Making interactive contents on the web
-> Visualizing trends.
+> Uzo - Visualizing trends.
 
 Do you have any questions for me?
 > None
-> No
+> Uzo - No
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
@@ -44,4 +44,4 @@ What happens if you turn in a lab late?
 
 When are you free during my scheduled office hours?
 > I will be available Tuesday. 
-> Tuesday, 10am–11am, and Monday, Wednesday, Friday 10–11am (Uzo)
+> Uzo - Tuesday, 10am–11am, and Monday, Wednesday, Friday 10–11am (Uzo)
