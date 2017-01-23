@@ -20,17 +20,17 @@ Zachary
 Why are you taking this course?
 > 
 JaeEun - Data Visualiztion sounds interesting. 
-To learn more about data science and ways to analyze said data in a way that can be understood.
+Zachary - To learn more about data science and ways to analyze said data in a way that can be understood.
 
 What are your concerns about this course?
 > 
 JaeEun - Learning many languages that are unfamiliar. 
-I'm concerned about the time committment as I'm enrolled in 18 credits and working roughly 15 hours a week.
+Zachary - I'm concerned about the time committment as I'm enrolled in 18 credits and working roughly 15 hours a week.
 
 What topic in this course are you most excited to cover?
 > 
 JaeEun - The Showcase 
-I'm most excited to cover JavaScript and advanced web design, in a data way.
+Zachary - I'm most excited to cover JavaScript and advanced web design, in a data way.
 
 Do you have any questions for me?
 > 
@@ -50,3 +50,4 @@ What happens if you turn in a lab late?
 
 When are you free during my scheduled office hours?
 > JaeEun - I am free from 10 to 11 MTWF
+Zachary - 
