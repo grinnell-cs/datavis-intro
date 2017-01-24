@@ -44,3 +44,4 @@ What happens if you turn in a lab late?
 
 When are you free during my scheduled office hours?
 > Peiyun: Mondays and Wednesdays 11:00AM - Noon
+> Conner: Mondays and Wednesdays 11:00AM - Noon
