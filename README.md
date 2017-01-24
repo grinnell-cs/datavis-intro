@@ -36,4 +36,4 @@ What happens if you turn in a lab late?
 > Late labs will be penalized a full letter grade (10%) for each day they are late.
 
 When are you free during my scheduled office hours?
-> Peiyun: Mondays and Wednesday 11:00AM - Noon
+> Peiyun: Mondays and Wednesdays 11:00AM - Noon
